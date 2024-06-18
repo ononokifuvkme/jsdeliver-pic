@@ -1,2 +1,2 @@
-# jsdeliver-pic
-oh-my-jsdeliver-pic
+# jsdelivr-pic
+oh-my-jsdelivr-pic
